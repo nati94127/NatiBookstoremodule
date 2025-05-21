@@ -1,0 +1,2 @@
+# NatiBookstoremodule
+Bookstore odoo module
